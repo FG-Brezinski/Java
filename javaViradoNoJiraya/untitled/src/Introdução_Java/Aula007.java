@@ -1,3 +1,5 @@
+package Introdução_Java;
+
 public class Aula007 {
     //EUR 0     EUR 34,712      9.70%
     //EUR 34,713     EUR 68,507      37.35%

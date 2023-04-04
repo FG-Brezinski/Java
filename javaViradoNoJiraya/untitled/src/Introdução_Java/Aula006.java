@@ -1,3 +1,5 @@
+package Introdução_Java;
+
 public class Aula006 {
     public static void main(String[] args) {
         //Operador ternário

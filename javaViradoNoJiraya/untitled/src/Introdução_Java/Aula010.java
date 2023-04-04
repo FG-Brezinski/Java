@@ -1,3 +1,5 @@
+package Introdução_Java;
+
 public class Aula010 {
     public static void main(String[] args) {
         //Estruturas de repetição

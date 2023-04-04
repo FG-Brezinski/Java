@@ -1,3 +1,5 @@
+package Introdução_Java;
+
 public class Aula009 {
     public static void main(String[] args) {
         //Utilizando Switch e dados as de 1 a 7, imprima se é dia ultil ou final de semana
